@@ -1,6 +1,6 @@
 ### Anthony/10119038
 #### Google Colab
-The product I'm exploring is Google Colab.
+The product I'm exploring is technically not a product, but it's used frequently.
 At first glance, the interface is similar to Jupyter Notebook, but it's more amazing!
 You can make sections, add formated text with LaTeX (LaTeX Wizards, Show yourself!!), view files connected to the code, etc.
 It can do cloud computing, therefore you don't have to worry about your potato laptop :").
