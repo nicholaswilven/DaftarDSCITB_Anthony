@@ -1,4 +1,4 @@
-### DaftarDSCITB_Anthony
+### Anthony/10119038
 #### Google Colab
 The product I'm exploring is Google Colab.
 At first glance, the interface is similar to Jupyter Notebook, but it's more amazing!
@@ -9,4 +9,4 @@ It requires no setup and accesible from all kind of browsers.
 Also it's integrated with google drive, the platform we're familiar with :).
 Recently, Google colab added support for Tensor Processing Unit (TPU), which means a lot for aspiring AI/ML user like me.
 And the most amazing thing about this product is?????? IT'S FREEE!!! Everyone can use it :) (You still need a laptop and internet connection though).
-But we still need to be careful if we're uploading sensitive data or information to google colab :).
+But you still need to be careful if you're uploading sensitive data or information to google colab :).
